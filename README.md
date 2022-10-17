@@ -1,10 +1,14 @@
 Getting Started with AI on Jetson Nano 과정
 
-Jetson Nano Setting
+1.Jetson Nano  세팅
 
 
 
+2.ubuntu 설치
 
+
+
+3.쿨링팬 설치
 
 
 
