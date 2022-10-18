@@ -16,10 +16,11 @@ Getting Started with AI on Jetson Nano
 <TT> WIFI Dongle</TT>
   <small><br>
 <TT> 무선 마우스<span>&#183;</span>키패드</TT>
-<br>
+<br>   
+<small>+ ubuntu <span>&#183;</span> 쿨링팬 설치 </small>
     
-<b> ubuntu <span>&#183;</span> 쿨링팬 설치 </b>
 
+    
 
 
 
