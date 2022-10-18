@@ -3,7 +3,7 @@
 
 Jetson Nano  세팅
 
-<small> 준비물</small>
+</TT></p>준비물</TT></p>
 
 
 
