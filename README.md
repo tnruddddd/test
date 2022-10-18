@@ -34,11 +34,12 @@ Getting Started with AI on Jetson Nano
 <br>
 4.WIFI Dongle을 Jetson에 넣기 
 <br>
-5.ubuntu에
+5.ubuntu에 연결 <span>&#183;</span> 로그인
 <br>
 <br>
 3. <b>'HEADLESS_MODE'</b>  PC에서 ssh 연결
-
+  
+  
 Hello Camera
 -
 Image Classification 
