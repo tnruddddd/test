@@ -28,4 +28,4 @@ Getting Started with AI on Jetson Nano
 
 [HEADLESS MODE] PC에서 SSH 연결
     
-    </div>
+</div>
