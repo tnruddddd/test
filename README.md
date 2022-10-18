@@ -24,8 +24,7 @@ Getting Started with AI on Jetson Nano
 <b><big> 2. ubuntu <span>&#183;</span> 쿨링팬 설치<big></b>
 <br>
 <br> 
-  >
-  >>
+> 안녕하세요
 1. SD Card Formatter 설치
 <br>    
 2. balenaEtcher 설치 및 SD카드 굽기
