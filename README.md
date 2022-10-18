@@ -1,7 +1,7 @@
-+ <strong>Getting Started with AI on Jetson Nano 과정<strong>
++ <strong>Getting Started with AI on Jetson Nano 과정<strong>!
 
 
-<span>&#183;</span>(사잇점)
+<span>&#183;</span>
 
 1.Jetson Nano  세팅
 
