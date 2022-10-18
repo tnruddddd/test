@@ -1,6 +1,6 @@
 Getting Started with AI on Jetson Nano
 -
-
++ㄹㅇ너ㅏㅟ
 <b> 1. Jetson Nano  세팅 준비물</b>
 <br>
 <br>
