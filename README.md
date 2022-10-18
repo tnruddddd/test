@@ -17,15 +17,16 @@ Getting Started with AI on Jetson Nano
 <TT> WIFI Dongle</TT>
 <small><br>
 <TT> 무선 마우스<span>&#183;</span>키패드</TT>
-<br>   
+<br> 
+<b>1-2.Jetson을 지지대에 올려 끼워준다</b>
 <br>   
 <b><big> 2. ubuntu <span>&#183;</span> 쿨링팬 설치<big></b>
 <br>
-<br> 
+<br>   
 1. SD Card Formatter 설치
 <br>    
 2. balenaEtcher 설치 및 SD카드 굽기
-<br><small>구울때 쓸 이미지 파일</small>
+<br>구울때 쓸 이미지 파일
 <small><br><TT>https://developer.nvidia.com/jetson-nano-2gb-sd-card-image </TT></small>
 <br>
 3.
