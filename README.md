@@ -30,9 +30,11 @@ Getting Started with AI on Jetson Nano
 <br>구울때 쓸 이미지 파일
 <small><br><TT>https://developer.nvidia.com/jetson-nano-2gb-sd-card-image </TT></small>
 <br>
-3.
-  
-
+3.SD카드를 Jetson에 넣기
+<br>
+4.WIFI Dongle을 Jetson에 넣기 
+<br>
+5.ubuntu에
 <b> 3. "HEADLESS MODE" PC에서 SSH 연결</b>
 
 Hello Camera
