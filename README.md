@@ -1,4 +1,4 @@
-<b>Getting Started with AI on Jetson Nano </b>
+Getting Started with AI on Jetson Nano
 -
 
 Jetson Nano  세팅 준비물
