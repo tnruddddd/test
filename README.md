@@ -20,7 +20,7 @@ Getting Started with AI on Jetson Nano
 <br>   
     <br>
     <br>   
-<b> 2. ubuntu <span>&#183;</span> 쿨링팬 설치</b>
+<b><big> 2. ubuntu <span>&#183;</span> 쿨링팬 설치</big></b>
  <br>
  <br> 
 1. SD Card Formatter 설치
