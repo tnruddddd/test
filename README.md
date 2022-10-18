@@ -1,4 +1,4 @@
-+ <strong>Getting Started with AI on Jetson Nano 과정<strong>!
++ <b>Getting Started with AI on Jetson Nano 과정</b>
 
 
 <span>&#183;</span>
