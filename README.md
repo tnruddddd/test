@@ -19,6 +19,7 @@ Getting Started with AI on Jetson Nano
 <TT> 무선 마우스<span>&#183;</span>키패드</TT>
 <br> 
 <b>1-2.Jetson을 지지대에 올려 끼워준다</b>
+<br>
 <br>   
 <b><big> 2. ubuntu <span>&#183;</span> 쿨링팬 설치<big></b>
 <br>
