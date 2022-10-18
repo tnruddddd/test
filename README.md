@@ -37,7 +37,11 @@ Getting Started with AI on Jetson Nano
 5.ubuntu에
 <br>
 <br>
-<b> 3. 'HEADLESS_MODE'</b>  PC에서 SSH 연결
+3. <b>'HEADLESS_MODE'</b>  PC에서 ssh 연결
 
 Hello Camera
 -
+Image Classification 
+-
+  
+Thumbs up / down
