@@ -24,7 +24,7 @@ Getting Started with AI on Jetson Nano
 <b><big> 2. ubuntu <span>&#183;</span> 쿨링팬 설치<big></b>
 <br>
 <br>   
-1. SD Card Formatter 설치
+  ###### 1. SD Card Formatter 설치
 <br>    
 2. balenaEtcher 설치 및 SD카드 굽기
 <br>구울때 쓸 이미지 파일
@@ -37,9 +37,9 @@ Getting Started with AI on Jetson Nano
 5.ubuntu에 연결 <span>&#183;</span> 로그인
 <br>
 <br>
-3. <b>'HEADLESS_MODE'</b>  ###### PC에서 ssh 연결
+3. <b>'HEADLESS_MODE' PC에서 ssh 연결</b>
  
-  ###### 
+
   
 Hello Camera
 -
