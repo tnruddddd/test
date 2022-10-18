@@ -44,4 +44,4 @@ Hello Camera
 Image Classification 
 -
   
-Thumbs up / down
+Thumbs up<span>&#183;</span>down
