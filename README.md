@@ -3,7 +3,7 @@
 
 <span>&#183;</span>
 
-<ul>-Jetson Nano  세팅</ul>
+<u>-Jetson Nano  세팅</u>
 
 
 
