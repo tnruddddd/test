@@ -38,9 +38,8 @@ Getting Started with AI on Jetson Nano
 <br>
 <br>
 3. <b>'HEADLESS_MODE'</b>  PC에서 ssh 연결
-  
-    ㅀ 
-  
+ 
+  ###### 그다음 작은 크기의 text로 변환
   
 Hello Camera
 -
