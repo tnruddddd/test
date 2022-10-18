@@ -37,9 +37,9 @@ Getting Started with AI on Jetson Nano
 5.ubuntu에 연결 <span>&#183;</span> 로그인
 <br>
 <br>
-3. <b>'HEADLESS_MODE'</b>  PC에서 ssh 연결
+3. <b>'HEADLESS_MODE'</b>  ###### PC에서 ssh 연결
  
-  ###### 그다음 작은 크기의 text로 변환
+  ###### 
   
 Hello Camera
 -
