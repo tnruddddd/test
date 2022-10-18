@@ -28,7 +28,7 @@ Getting Started with AI on Jetson Nano
 <br>    
 2. balenaEtcher 설치 및 SD카드 굽기
 <br>구울때 쓸 이미지 파일
-<small><br><TT>https://developer.nvidia.com/jetson-nano-2gb-sd-card-image </TT></small>
+<br><TT>https://developer.nvidia.com/jetson-nano-2gb-sd-card-image </TT>
 <br>
 3.SD카드를 Jetson에 넣기
 <br>
