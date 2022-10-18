@@ -1,4 +1,4 @@
-<! doctype html> 
+<html> 
 Getting Started with AI on Jetson Nano
 -
 <div stlye="text-align: left;">
