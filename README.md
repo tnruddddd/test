@@ -5,7 +5,7 @@ Getting Started with AI on Jetson Nano
 <br>
 <TT> Sd 카드</TT>
 <small><br>
-<TT> CSI 카메라 <span>&#183;</span> 웹캠</TT>
+<TT> CSI 카메라/웹캠</TT>
 <small><br>
 <TT> USB Data 케이블 </TT>
 <small><br>
