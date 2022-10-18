@@ -3,15 +3,11 @@
 
 <span>&#183;</span>
 
-1.Jetson Nano  세팅
+<ul>-Jetson Nano  세팅</ul>
 
 
 
-2.ubuntu 설치
-
-
-
-3.쿨링팬 설치
+2.ubuntu <span>&#183;</span> 쿨링팬 설치
 
 
 
