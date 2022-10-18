@@ -25,10 +25,10 @@ Getting Started with AI on Jetson Nano
 1. SD Card Formatter 설치
     <br>    
 2. balenaEtcher 설치 및 SD카드 굽기
-   <br>구울때 쓸 이미지 파일<TT>  https://developer.nvidia.com/jetson-nano-2gb-sd-card-image </TT>
-    <br>
-    
-    
+   <br><small>구울때 쓸 이미지 파일</small>
+   <br><TT>https://developer.nvidia.com/jetson-nano-2gb-sd-card-image </TT>
+   <br>
+  
 
 [HEADLESS MODE] PC에서 SSH 연결
 
