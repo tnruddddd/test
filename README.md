@@ -1,4 +1,3 @@
-<! doctype html> 
 Getting Started with AI on Jetson Nano
 -
 <div stlye="text-align: left;">
@@ -36,3 +35,5 @@ Getting Started with AI on Jetson Nano
 
 Hello Camera
 -
+  
+<! doctype html> 
