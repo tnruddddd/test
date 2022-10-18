@@ -6,9 +6,9 @@ Getting Started with AI on Jetson Nano
 <small><br>
 <TT> sd카드</TT>
 <small><br>
-<TT> 지지대</TT>
+<TT> CSI Webcam</TT>
 <small><br>
-<TT> Jetson Nano  세팅 준비물</TT>
+<TT> 우우 </TT>
 <small><br>
 <TT> </TT>
 <small><br>
