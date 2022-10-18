@@ -1,7 +1,7 @@
 Getting Started with AI on Jetson Nano
 -
 <div stlye="text-align: left;">
-<b> 1. Jetson Nano  세팅 준비물</b>
+<font size="4"><b> 1. Jetson Nano  세팅 준비물</b></font>
 <br>
 <br>
 <TT> Sd 카드</TT>
