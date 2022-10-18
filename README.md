@@ -1,7 +1,7 @@
 Getting Started with AI on Jetson Nano
 -
 <div stlye="text-align: left;">
-<div style="font-size: 5pt"><b> 1. Jetson Nano  세팅 준비물</b>
+<b> 1. Jetson Nano  세팅 준비물</b>
 <br>
 <br>
 <TT> Sd 카드</TT>
@@ -22,12 +22,12 @@ Getting Started with AI on Jetson Nano
 <b><big> 2. ubuntu <span>&#183;</span> 쿨링팬 설치<big></b>
 <br>
 <br> 
-1. SD Card Formatter 설치
+<font size="1"> 1. SD Card Formatter 설치
 <br>    
 2. balenaEtcher 설치 및 SD카드 굽기
 <br><small>구울때 쓸 이미지 파일</small>
 <br><TT>https://developer.nvidia.com/jetson-nano-2gb-sd-card-image </TT>
-<br>
+<br></font> 
   
 
 [HEADLESS MODE] PC에서 SSH 연결
