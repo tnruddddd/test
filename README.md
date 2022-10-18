@@ -1,6 +1,6 @@
 Getting Started with AI on Jetson Nano
 -
-
+<div stlye="text-align: left;">
 <b> 1. Jetson Nano  세팅 준비물</b>
 <br>
 <br>
@@ -19,9 +19,8 @@ Getting Started with AI on Jetson Nano
 <TT> 무선 마우스<span>&#183;</span>키패드</TT>
 <br>   
     <br>
-    <br>
-   
-<b> ubuntu <span>&#183;</span> 쿨링팬 설치</b>
+    <br>   
+<b> 2. ubuntu <span>&#183;</span> 쿨링팬 설치</b>
 1. SD Card Formatter 설치
     <br>    
 2. balenaEtcher 설치 및 SD카드 굽기
