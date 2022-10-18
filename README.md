@@ -8,7 +8,7 @@ Getting Started with AI on Jetson Nano
 <TT> Jetson Nano  세팅 준비물</TT>
 <small><br>
 <TT> Jetson Nano  세팅 준비물</TT>
-<big><br>
+<br>
 <TT> Jetson Nano  세팅 준비물</TT>
 
 
