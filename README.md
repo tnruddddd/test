@@ -4,14 +4,18 @@ Getting Started with AI on Jetson Nano
 <br>
 <br>
 <TT> Sd 카드</TT>
-<br>
+<small><br>
 <TT> CSI 웹캠</TT>
 <small><br>
 <TT> USB Data 케이블 </TT>
 <small><br>
-<TT> </TT>
+<TT> 쿨링팬 </TT>
 <small><br>
 <TT> 지지대</TT>
+<small><br>
+<TT> WIFI Donggle</TT>
+  <small><br>
+<TT> 무선 마우스<span>&#183;</span>키패드</TT>
 
 
 
