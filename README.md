@@ -1,7 +1,7 @@
 Getting Started with AI on Jetson Nano
 -
 
-<b> Jetson Nano  세팅 준비물</b>
+<b> 1. Jetson Nano  세팅 준비물</b>
 <br>
 <small><br>
 <TT> sd카드</TT>
@@ -16,7 +16,7 @@ Getting Started with AI on Jetson Nano
 
 
 
-<b> ubuntu <span>&#183;</span> 쿨링팬 설치 </b>
+<b> 2. ubuntu <span>&#183;</span> 쿨링팬 설치 </b>
 
 
 
