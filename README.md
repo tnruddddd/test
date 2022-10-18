@@ -1,9 +1,9 @@
-+ <b>Getting Started with AI on Jetson Nano 과정</b>
-br>
-br>
+<b>Getting Started with AI on Jetson Nano 과정</b>
+-
+
 
 Jetson Nano  세팅
--
+
 
 
 
