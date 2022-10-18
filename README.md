@@ -25,6 +25,7 @@ Getting Started with AI on Jetson Nano
 <br>
 <br> 
   >
+  >>
 1. SD Card Formatter 설치
 <br>    
 2. balenaEtcher 설치 및 SD카드 굽기
