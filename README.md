@@ -22,4 +22,4 @@ ubuntu <span>&#183;</span> 쿨링팬 설치
 
 
 
-[HEADLESS MODE] PC에서 SSH 연결
+<small>[HEADLESS MODE] PC에서 SSH 연결</small>
