@@ -1,7 +1,8 @@
 Getting Started with AI on Jetson Nano
 -
 
-<b>Jetson Nano  세팅 준비물</b>
++<b>Jetson Nano  세팅 준비물</b>
+<br>
 <small><br>
 <TT> sd카드</TT>
 <small><br>
