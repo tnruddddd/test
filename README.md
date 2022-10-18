@@ -2,8 +2,9 @@ Getting Started with AI on Jetson Nano
 -
 <b> 1. Jetson Nano  세팅 준비물</b>
 <br>
+<br>
 <TT> Sd 카드</TT>
-<small><br>
+<br>
 <TT> CSI 웹캠</TT>
 <small><br>
 <TT> USB Data 케이블 </TT>
